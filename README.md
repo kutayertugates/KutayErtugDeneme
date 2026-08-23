@@ -7,6 +7,7 @@ Kullanıcı konsoldan görev ekler, listeler ve çıkarır.
 ```
 ├── main.py
 ├── README.md
+├── tasks.json
 └── funcs
     ├── add_task.py
     ├── list_task.py
